@@ -2,6 +2,7 @@ public class SampleRecord {
 
   public static void method()
     {
+    	System.debug('Testing GIT');
         //Account Acc= new Account();
         //ldVar = [Select id, name from lead];
         
